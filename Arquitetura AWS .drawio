@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="27.0.6">
+  <diagram name="Page-1" id="2p-FwG93A3nO8b7LPiWQ">
+    <mxGraphModel dx="2276" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-260" width="1430" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-4" value="VPC-WEB-SERVER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7V0JD-kxs8DxDPOtK0CM-5" target="7V0JD-kxs8DxDPOtK0CM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-60" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7V0JD-kxs8DxDPOtK0CM-6" target="7V0JD-kxs8DxDPOtK0CM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-70" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-7" value="SUBNET A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-8" value="SUBNET B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="575" y="205" width="65" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-10" value="IGW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-22" value="ALB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-155" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7V0JD-kxs8DxDPOtK0CM-24" value="AUTO SACALING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-170" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
